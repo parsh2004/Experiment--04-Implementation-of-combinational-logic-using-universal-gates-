@@ -18,21 +18,19 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
 ## Procedure
 
-
-
-### 1.Use module projname(input,output) to start the Verilog programmming.
-### 2.Assign inputs and outputs using the word input and output respectively.
-### 3.Use defined keywords like wire,assign and required logic gates to represent the boolean expression.
-### 4.Represent the output according to the given boolean expression(Using either NAND or NOR gate)
-### 5.End the verilog program using keyword endmodule.
+ 1.Use module projname(input,output) to start the Verilog programmming.
+ 2.Assign inputs and outputs using the word input and output respectively.
+ 3.Use defined keywords like wire,assign and required logic gates to represent the boolean expression.
+ 4.Represent the output according to the given boolean expression(Using either NAND or NOR gate)
+ 5.End the verilog program using keyword endmodule.
 
 
 ## Program:
 
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
 ```
-Developed by: Y SHAVEDHA
-RegisterNumber: 212221230095
+Developed by: M Parshwanath
+RegisterNumber: 212221230073
 ```
 ## IMPLEMENT THE LOGIC USING NAND GATE:
 ```
@@ -63,19 +61,19 @@ endmodule
 ## Output
 ## NAND GATE
 ### Truth Table
-![output](./nandtr.png)
+![output](./nandtrex4.png)
 ### RTL Realisation
 ![nandlg](https://user-images.githubusercontent.com/93427376/167283947-2cc08010-75b2-46cb-95c4-bfb2ab4ffa65.PNG)
 ### Timing Diagram
-![output](./nandtim.jpeg)
+![output](./nandtimex4.jpeg)
 
 ## NOR GATE
 ### Truth Table
-![output](./nortr.png)
+![output](./nortrex4.png)
 ### RTL Realisation
-![output](./norlg.png)
+![output](./norlgex4.png)
 ### Timing Diagram
-![output](./nortim.png)
+![output](./nortimex4.png)
 
 
 
